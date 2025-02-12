@@ -18,4 +18,6 @@ if hodKostkou == "ano":
         print("Tak díky a ahoj")
 else:
     print("Děkujeme přejeme krásný den, zahrajeme si příště.")
+
+    Export ("mujKodik.py"),[]
     
